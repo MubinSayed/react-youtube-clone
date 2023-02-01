@@ -1,0 +1,8 @@
+{
+    "recommendations": [
+        "dsznajder.es7-react-js-snippets",
+        "rapidapi.vscode-rapidapi-client",
+        "christian-kohler.path-intellisense",
+        "christian-kohler.npm-intellisense"
+    ]
+}
